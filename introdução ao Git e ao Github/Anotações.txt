@@ -1,0 +1,4 @@
+Foi interessante fazer o curso de git e github da dio.
+Já tinha estudado antes git e github, mas pelo Github Desktop.
+Esse curso me acrescentou bastante ao trabalhar com git diretamente via linha 
+de comandos e entendendo por trás dos panos como realmente as coisas funcionam.
