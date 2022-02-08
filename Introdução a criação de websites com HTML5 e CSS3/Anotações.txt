@@ -1,0 +1,7 @@
+Section: Representa uma seção genérica de conteúdo
+Header: Cabeçalho da Página
+Artcile: Conteúdo relavante de um site como um arigo de um blog
+Aside:  relacionado ao conteúdo principal, como a bibliografia de um autor, 
+link relacionados e normalmente representado por uma barra lateral.
+footer: Rodapé da página ou de article ou section.
+<h1>-<h6> Representa a importância de um título dentro de uma página
