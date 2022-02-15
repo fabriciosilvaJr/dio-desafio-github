@@ -1,0 +1,13 @@
+Diferença entre programação síncrona e assíncrona
+
+Síncrona
+
+Pára a execução de mais códigos até que isso seja feito.
+Por ser esta parada de execução adicional, o código síncrono é chamado de 'bloqueio'. Bloqueando no sentido de que nenhum outro código será executado.
+
+Assíncrona
+
+A execução disso é adiada para o loop de eventos, é uma construção em uma máquina virtual JS que executa funções assíncronas
+ (depois que a pilha de funções síncronas fica vazia).
+O código assíncrono é chamado sem bloqueio porque não impede a execução de mais códigos.
+
